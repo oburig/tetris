@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "oburiG Tetris",
+  "version": "1.0.0",
+  "description": "네온 테트리스 게임을 브라우저 팝업에서 즐기세요.",
+  "action": {
+    "default_popup": "index.html",
+    "default_width": 400,
+    "default_height": 600
+  },
+  "permissions": []
+}
